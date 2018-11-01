@@ -2,7 +2,7 @@
 <html>
 <body>
 
-	<h1>Cars</h1>
+	<h1>Cars Price List</h1>
 	
 	<c:forEach items="${carList}" var="car">
 		<p>
